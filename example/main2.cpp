@@ -1,8 +1,8 @@
 #include <iostream>
-#include "../include/math/Vec2.hpp"
-#include "../include/math/Vec3.hpp"
-#include "../include/math/Mat2.hpp"
-#include "../include/math/Mat3.hpp"
+#include "../math/Vec2.hpp"
+#include "../math/Vec3.hpp"
+#include "../math/Mat2.hpp"
+#include "../math/Mat3.hpp"
 
 int main()
 {
@@ -94,3 +94,4 @@ int main()
 
     return 0;
 }
+
