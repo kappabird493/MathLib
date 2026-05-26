@@ -13,4 +13,7 @@ int main() {
     std::cout << c.x << " " << c.y << " " << c.z << std::endl;
     std::cout << d << std::endl;
     std::cout << e << std::endl;
+
+    std::cin.get();
+    return 0;
 }
