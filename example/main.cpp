@@ -14,6 +14,5 @@ int main() {
     std::cout << d << std::endl;
     std::cout << e << std::endl;
 
-    std::cin.get();
     return 0;
 }
